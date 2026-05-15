@@ -1,0 +1,61 @@
+{
+  "asset_count": 2,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "mover",
+      "id_type": "NODETREE",
+      "files": [
+        "assets.blend"
+      ],
+      "thumbnail": {
+        "url": "assets_thumbnails/Nodetree/mover.webp",
+        "hash": "SHA256:236da6dd4fcac3fdcf0ef501e4a3f2cf22168e19b21d808d173ae1d8e3c09434"
+      },
+      "meta": {
+        "catalog_id": "65d15e86-891b-413c-9142-8322097bf7f1",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Suzanne",
+      "id_type": "OBJECT",
+      "files": [
+        "assets.blend"
+      ],
+      "thumbnail": {
+        "url": "assets_thumbnails/Object/suzanne.webp",
+        "hash": "SHA256:1b9853857c703656d8e6ea6afde8da8e2d01bc9272dfc6818b9294bb456a3f6c"
+      },
+      "meta": {
+        "catalog_id": "65d15e86-891b-413c-9142-8322097bf7f1",
+        "properties": [
+          {
+            "name": "dimensions",
+            "type": "IDP_ARRAY",
+            "value": [
+              2.656371831893921,
+              1.6007075309753418,
+              2.405729293823242
+            ],
+            "itemtype": "IDP_FLOAT"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "assets.blend",
+      "size_in_bytes": 550134,
+      "hash": "SHA256:b580ab41ec283e643d3846af80c02bd873f5e8937ab902091f3ce10732b12ff7",
+      "blender_version": "5.2.26"
+    }
+  ]
+}

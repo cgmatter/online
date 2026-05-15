@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 550134,
+  "asset_count": 2,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:d620f99971769bc43713cf1d5b86d49dfe84862ea6b5c896413a4494559dff1b"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "fromtheinternet",
+      "uuids": [
+        "65d15e86-891b-413c-9142-8322097bf7f1"
+      ],
+      "simple_name": "fromtheinternet"
+    }
+  ]
+}
